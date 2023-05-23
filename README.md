@@ -9,7 +9,7 @@ We present a study of Tip-of-the-tongue ( ToT) retrieval for music, where a sear
 
 
 **Authors:**
-[Samarth Bhargav](https://samarthbhargav.github.io/) (work done during internship at Spotify Research) , [Anne Schuth](https://anneschuth.nl/),  [Claudia Hauff](https://chauff.github.io/)
+[Samarth Bhargav](https://samarthbhargav.github.io/) (work done during internship at Spotify Research), [Anne Schuth](https://anneschuth.nl/), [Claudia Hauff](https://chauff.github.io/)
 
 **Cite**
 ```
@@ -24,7 +24,7 @@ We present a study of Tip-of-the-tongue ( ToT) retrieval for music, where a sear
 
 ### Description
 
-Data can be downloaded using [this link](data.jsonl), which is a JSONL file with one information need per line. You can view an example docuument [here](#example-document). Each field and accompanying description is outlined in the table below:
+Data can be downloaded using [this link](data.jsonl.zip), which is a zipped JSONL file with one information need per line. You can view an example docuument [here](#example-document). Each field and accompanying description is outlined in the table below:
 
 | Field Name                                     | Type                | Description                                                                                                                                          |
 |------------------------------------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
