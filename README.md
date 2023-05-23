@@ -13,7 +13,13 @@ We present a study of Tip-of-the-tongue ( ToT) retrieval for music, where a sear
 
 **Cite**
 ```
-Coming soon!
+@inproceedings{bhargav2023,
+  title = {When the Music Stops: Tip-of-the-Tongue Retrieval for Music},
+  author = {Samarth Bhargav and Anne Schuth and Claudia Hauff},
+  year = {2023},
+  booktitle = {Proceedings of SIGIR'23},
+  doi = {10.1145/3539618.3592086}
+}
 ```
 
 ### Description
